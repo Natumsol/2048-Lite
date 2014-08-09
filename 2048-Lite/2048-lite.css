@@ -1,0 +1,185 @@
+body{
+	background: #E6E6E6;
+	font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
+}
+#container{
+ 	border: 1px solid #BBADA0;
+ 	width: 525px;
+	border-radius: 10px;
+	margin-top: 8px;
+}
+.fleft{
+	float: left;
+}
+#head{
+	height: 120px;
+	width: 480px;
+
+}
+#title{
+	font-size: 3.125em;
+	color: #776E65;
+	font-weight: 700;
+}
+#tips{
+	color: #776E65;
+	margin-top: 10px;
+}
+#result{
+	font-size: 1.3em;
+	color: white;
+	text-align: center;
+	line-height: 25px;
+}
+
+#score{
+	width: 90px;
+	background: #BBADA0;
+	margin-left: 20px;
+	margin-right: 20px;
+	height:50px;
+	border-radius: 5px;
+}
+
+#best{
+	width: 90px;
+	background: #BBADA0;
+	/*margin-left: 20px;*/
+	/*margin-right: 10px;*/
+	height:50px;
+	border-radius: 5px;
+}
+
+#menu{
+	font-weight: 700;
+	color: #FF9900;
+	font-size: 20px;
+	margin-top: 15px;
+}
+
+#restart{
+	margin-right: 97px;
+	cursor: pointer;
+}
+#survivalStarter{
+	margin-right: 97px;
+	visibility: hidden;
+	cursor: pointer;
+}
+#undo{
+	cursor: pointer;
+	
+}
+
+#gameContainer{
+
+  -webkit-touch-callout: none;
+  -ms-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -ms-touch-action: none;
+ 	margin:20px 20px 10px 20px;  
+}
+#game{
+	background: #BBADA0;
+	width:480px;
+	height: 480px;
+	/*margin-top: 5px;*/
+	border-radius: 0.625em;
+	cursor: default;
+}
+.game-cell{
+	background: #CCC0B3;
+	float: left;
+	margin-left: 1em;
+	margin-top:1em;
+	text-align: center;
+	border-radius: 45%;
+}
+.clear{
+	clear: both;
+}
+
+
+
+#opition{
+	position:relative;
+	top: -625px;
+	left:500px;
+	cursor: help;
+	width: 30px;
+	height: 20px;
+}
+.menu{
+	width: 20px;
+	height: 3px;
+	background:#BBADA0; 
+	margin-bottom: 3px;
+	border-radius: 5px;
+}
+
+#menu_context{
+	width: 300px;
+	height:599px;
+	background: #272822; 
+	opacity: 0.9;
+	border-bottom-left-radius: 30px;
+	border-top-left-radius: 30px;
+	border-bottom-right-radius: 30px;
+	position:relative;
+	float: left;
+	top: 29px;
+	right: 326px;
+	color: #CCC0B3;
+	font-size: 25px;
+	text-align: center;
+	line-height: 70px;
+	cursor: pointer;
+  -webkit-touch-callout: none;
+  -ms-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -ms-touch-action: none;
+}
+#pop_menu{
+	line-height: 150px;
+}
+
+#leve2Modes{
+	line-height: 187px;
+
+}
+
+
+#level2Level{
+	line-height: 120px;
+}
+
+
+#timer{
+	font-size: 200px;
+	position: relative;
+	top:255px;
+	left: 100px;
+	color: #BBADA0;
+}
+
+#menu_context a{
+	text-decoration: none;
+	color: #CCC0B3;
+}
+
+#end{
+	font-size: 175px;
+	text-align: center;
+	color: gray;
+	line-height: 233px;
+}
+#win{
+	font-size: 175px;
+	text-align: center;
+	color: #FF9900;
+	line-height: 233px;
+}
