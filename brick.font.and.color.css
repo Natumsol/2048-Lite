@@ -1,0 +1,416 @@
+.fourTimesFour .game-cell.element_2{
+	font-size: 6.25em;
+	color: #776E65;
+	background: #EEE4DA;
+	line-height: 1em;
+}
+.fourTimesFour .game-cell.element_4{
+	font-size: 6.25em;
+	color: #776E65;
+	background: #EDE0C8;
+	line-height: 1em;
+}
+.fourTimesFour .game-cell.element_8{
+	font-size: 6.25em;
+	color: #f9f6f2;
+	background: #f2b179;
+	line-height: 1em;
+}
+.fourTimesFour .game-cell.element_16{
+	font-size: 5em;
+	color: #f9f6f2;
+	background: #f59563;
+	line-height: 1.25em;
+}
+.fourTimesFour .game-cell.element_32{
+	font-size: 5em;
+	color: #f9f6f2;
+	background: #f67c5f;
+	line-height: 1.25em;
+}
+.fourTimesFour .game-cell.element_64{
+	font-size: 5em;
+	color: #f9f6f2;
+	background: #f65e3b;
+	line-height: 1.25em;
+}
+.fourTimesFour .game-cell.element_128{
+	font-size: 3.75em;
+	color: #f9f6f2;
+	background: #edcf72;
+	line-height:1.67em;
+}
+.fourTimesFour .game-cell.element_256{
+	font-size: 3.75em;
+	color: #f9f6f2;
+	background: #edcc61;
+	line-height:1.67em;
+}
+.fourTimesFour .game-cell.element_512{
+	font-size: 3.75em;
+	color: #f9f6f2;
+	background: #edc850;
+	line-height:1.67em;
+}
+.fourTimesFour .game-cell.element_1024{
+	font-size: 2.81em;
+	color: #f9f6f2;
+	background: #edc53f;
+	line-height:2.224em;
+}
+.fourTimesFour .game-cell.element_2048{
+	font-size: 2.81em;
+	color: #f9f6f2;
+	background: #edc22e;
+	box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
+	line-height:2.224em;
+}
+.fourTimesFour .game-cell.element_4096{
+	font-size: 2.81em;
+	color: #f9f6f2;
+	background: #edc22e;
+	line-height:2.224em;
+}
+.fourTimesFour .game-cell.element_8192{
+	font-size: 2.81em;
+	color: #f9f6f2;
+	background: #edc22e;
+	line-height:2.224em;
+}
+
+
+
+
+
+.threeTimesThree .game-cell.element_2{
+	font-size: 8.25em;
+	color: #776E65;
+	background: #EEE4DA;
+	line-height: 1em;
+}
+.threeTimesThree .game-cell.element_4{
+	font-size: 8.25em;
+	color: #776E65;
+	background: #EDE0C8;
+	line-height: 1em;
+}
+.threeTimesThree .game-cell.element_8{
+	font-size: 8.25em;
+	color: #f9f6f2;
+	background: #f2b179;
+	line-height: 1em;
+}
+.threeTimesThree .game-cell.element_16{
+	font-size: 7em;
+	color: #f9f6f2;
+	background: #f59563;
+	line-height: 1.2em;
+}
+.threeTimesThree .game-cell.element_32{
+	font-size: 7em;
+	color: #f9f6f2;
+	background: #f67c7f;
+	line-height: 1.2em;
+}
+.threeTimesThree .game-cell.element_64{
+	font-size: 7em;
+	color: #f9f6f2;
+	background: #f65e3b;
+	line-height: 1.2em;
+}
+.threeTimesThree .game-cell.element_128{
+	font-size: 4.75em;
+	color: #f9f6f2;
+	background: #edcf72;
+	line-height:1.8em;
+}
+.threeTimesThree .game-cell.element_256{
+	font-size: 4.75em;
+	color: #f9f6f2;
+	background: #edcc61;
+	line-height:1.8em;
+}
+.threeTimesThree .game-cell.element_512{
+	font-size: 4.75em;
+	color: #f9f6f2;
+	background: #edc850;
+	line-height:1.8em;
+}
+.threeTimesThree .game-cell.element_1024{
+	font-size: 3.7em;
+	color: #f9f6f2;
+	background: #edc53f;
+	line-height:2.224em;
+}
+.threeTimesThree .game-cell.element_2048{
+	font-size: 3.7em;
+	color: #f9f6f2;
+	background: #edc22e;
+	box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
+	line-height:2.224em;
+}
+.threeTimesThree .game-cell.element_4096{
+	font-size: 3.7em;
+	color: #f9f6f2;
+	background: #edc22e;
+	line-height:2.224em;
+}
+.threeTimesThree .game-cell.element_8192{
+	font-size: 3.7em;
+	color: #f9f6f2;
+	background: #edc22e;
+	line-height:2.224em;
+}
+
+
+
+
+
+.fiveTimesFive .game-cell.element_2{
+	font-size: 5.25em;
+	color: #776E65;
+	background: #EEE4DA;
+	line-height: 1em;
+}
+.fiveTimesFive .game-cell.element_4{
+	font-size: 5.25em;
+	color: #776E65;
+	background: #EDE0C8;
+	line-height: 1em;
+}
+.fiveTimesFive .game-cell.element_8{
+	font-size: 5.25em;
+	color: #f9f6f2;
+	background: #f2b179;
+	line-height: 1em;
+}
+.fiveTimesFive .game-cell.element_16{
+	font-size: 4em;
+	color: #f9f6f2;
+	background: #f59563;
+	line-height: 1.25em;
+}
+.fiveTimesFive .game-cell.element_32{
+	font-size: 4em;
+	color: #f9f6f2;
+	background: #f67c5f;
+	line-height: 1.25em;
+}
+.fiveTimesFive .game-cell.element_64{
+	font-size: 4em;
+	color: #f9f6f2;
+	background: #f65e3b;
+	line-height: 1.25em;
+}
+.fiveTimesFive .game-cell.element_128{
+	font-size: 2.85em;
+	color: #f9f6f2;
+	background: #edcf72;
+	line-height:1.8em;
+}
+.fiveTimesFive .game-cell.element_256{
+	font-size: 2.85em;
+	color: #f9f6f2;
+	background: #edcc61;
+	line-height:1.67em;
+}
+.fiveTimesFive .game-cell.element_512{
+	font-size: 2.85em;
+	color: #f9f6f2;
+	background: #edc850;
+	line-height:1.67em;
+}
+.fiveTimesFive .game-cell.element_1024{
+	font-size: 2.25em;
+	color: #f9f6f2;
+	background: #edc53f;
+	line-height:2.224em;
+}
+.fiveTimesFive .game-cell.element_2048{
+	font-size: 2.25em;
+	color: #f9f6f2;
+	background: #edc22e;
+	box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
+	line-height:2.224em;
+}
+.fiveTimesFive .game-cell.element_4096{
+	font-size: 2.25em;
+	color: #f9f6f2;
+	background: #edc22e;
+	line-height:2.224em;
+}
+.fiveTimesFive .game-cell.element_8192{
+	font-size: 2.25em;
+	color: #f9f6f2;
+	background: #edc22e;
+	line-height:2.224em;
+}
+
+
+
+
+
+.sixTimesSix .game-cell.element_2{
+	font-size: 4.5em;
+	color: #776E65;
+	background: #EEE4DA;
+	line-height: 1em;
+}
+.sixTimesSix .game-cell.element_4{
+	font-size: 4.5em;
+	color: #776E65;
+	background: #EDE0C8;
+	line-height: 1em;
+}
+.sixTimesSix .game-cell.element_8{
+	font-size: 4.5em;
+	color: #f9f6f2;
+	background: #f2b179;
+	line-height: 1em;
+}
+.sixTimesSix .game-cell.element_16{
+	font-size: 3.5em;
+	color: #f9f6f2;
+	background: #f59563;
+	line-height: 1.25em;
+}
+.sixTimesSix .game-cell.element_32{
+	font-size: 3.5em;
+	color: #f9f6f2;
+	background: #f67c5f;
+	line-height: 1.25em;
+}
+.sixTimesSix .game-cell.element_64{
+	font-size: 3.5em;
+	color: #f9f6f2;
+	background: #f65e3b;
+	line-height: 1.25em;
+}
+.sixTimesSix .game-cell.element_128{
+	font-size: 2.5em;
+	color: #f9f6f2;
+	background: #edcf72;
+	line-height:1.77em;
+}
+.sixTimesSix .game-cell.element_256{
+	font-size: 2.5em;
+	color: #f9f6f2;
+	background: #edcc61;
+	line-height:1.77em;
+}
+.sixTimesSix .game-cell.element_512{
+	font-size: 2.5em;
+	color: #f9f6f2;
+	background: #edc850;
+	line-height:1.77em;
+}
+.sixTimesSix .game-cell.element_1024{
+	font-size: 1.85em;
+	color: #f9f6f2;
+	background: #edc53f;
+	line-height:2.224em;
+}
+.sixTimesSix .game-cell.element_2048{
+	font-size: 1.85em;
+	color: #f9f6f2;
+	background: #edc22e;
+	box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
+	line-height:2.224em;
+}
+.sixTimesSix .game-cell.element_4096{
+	font-size: 1.85em;
+	color: #f9f6f2;
+	background: #edc22e;
+	line-height:2.224em;
+}
+.sixTimesSix .game-cell.element_8192{
+	font-size: 1.85em;
+	color: #f9f6f2;
+	background: #edc22e;
+	line-height:2.224em;
+}
+
+
+
+
+.sevenTimesSeven .game-cell.element_2{
+	font-size: 4em;
+	color: #776E65;
+	background: #EEE4DA;
+	line-height: 0.9em;
+}
+.sevenTimesSeven .game-cell.element_4{
+	font-size: 4em;
+	color: #776E65;
+	background: #EDE0C8;
+	line-height: 0.9em;
+}
+.sevenTimesSeven .game-cell.element_8{
+	font-size: 4em;
+	color: #f9f6f2;
+	background: #f2b179;
+	line-height: 0.9em;
+}
+.sevenTimesSeven .game-cell.element_16{
+	font-size: 3em;
+	color: #f9f6f2;
+	background: #f59563;
+	line-height: 1.25em;
+}
+.sevenTimesSeven .game-cell.element_32{
+	font-size: 3em;
+	color: #f9f6f2;
+	background: #f67c5f;
+	line-height: 1.25em;
+}
+.sevenTimesSeven .game-cell.element_64{
+	font-size: 3em;
+	color: #f9f6f2;
+	background: #f65e3b;
+	line-height: 1.25em;
+}
+.sevenTimesSeven .game-cell.element_128{
+	font-size: 2.05em;
+	color: #f9f6f2;
+	background: #edcf72;
+	line-height:1.67em;
+}
+.sevenTimesSeven .game-cell.element_256{
+	font-size: 2.05em;
+	color: #f9f6f2;
+	background: #edcc61;
+	line-height:1.67em;
+}
+.sevenTimesSeven .game-cell.element_512{
+	font-size: 2.05em;
+	color: #f9f6f2;
+	background: #edc850;
+	line-height:1.67em;
+}
+.sevenTimesSeven .game-cell.element_1024{
+	font-size: 1.65em;
+	color: #f9f6f2;
+	background: #edc53f;
+	line-height:2.224em;
+}
+.sevenTimesSeven .game-cell.element_2048{
+	font-size: 1.65em;
+	color: #f9f6f2;
+	background: #edc22e;
+	box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
+	line-height:2.224em;
+}
+.sevenTimesSeven .game-cell.element_4096{
+	font-size: 1.65em;
+	color: #f9f6f2;
+	background: #edc22e;
+	line-height:2.224em;
+}
+.sevenTimesSeven .game-cell.element_8192{
+	font-size: 1.65em;
+	color: #f9f6f2;
+	background: #edc22e;
+	line-height:2.224em;
+}
+
+
